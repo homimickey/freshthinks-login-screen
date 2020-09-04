@@ -1,5 +1,8 @@
 # freshthinks-login-screen
 
+## Open build folder in your cloned repo and double click on `index.html` file
+
+
 
 ## Instructions to run the app
 
