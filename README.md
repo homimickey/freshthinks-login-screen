@@ -1,11 +1,12 @@
 # freshthinks-login-screen
 
 
+## Instructions to run the app
+
 # clone the repo
 
 `git clone https://github.com/homimickey/freshthinks-login-screen.git`
 
-## Instructions
 
 ### change direcory 
 `cd freshthinks-login-screen`
@@ -22,3 +23,6 @@
 ----
 
 open browser `http://localhost:1234` see the output
+
+
+# Added the handleSubmit.js which is actually wht runs when user clicks login button
