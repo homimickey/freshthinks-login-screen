@@ -3,6 +3,8 @@
 
 # clone the repo
 
+`git clone https://github.com/homimickey/freshthinks-login-screen.git`
+
 ## Instructions
 
 ### change direcory 
