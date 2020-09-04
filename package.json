@@ -1,0 +1,22 @@
+{
+  "name": "freshthinks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel public/index.html",
+    "build": "parcel build public/index.html --out-dir build/final"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "firebase": "^7.19.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-firebaseui": "^4.1.0",
+    "react-router-dom": "^5.2.0"
+  }
+}
